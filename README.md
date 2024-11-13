@@ -2,7 +2,7 @@
 My Name is Norbert and I am a game developer <br>
 I primarily work with Unity but I also have experience with Unreal Engine <br>
 
-If you woud like to know more about me: <a href="">linkedin profile</a> <br>
+If you woud like to know more about me: <a href="www.linkedin.com/in/norbert-oleksy">linkedin profile</a> <br>
 Check out also my <a href="">Portfolio</a>
  <br>
  
