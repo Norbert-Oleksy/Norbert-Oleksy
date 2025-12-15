@@ -26,8 +26,20 @@ I often apply what I learn directly into team workflows to boost efficiency or q
 </p>
 
 <!--Profiles-->
+<p align="left">
+  <a href="https://www.linkedin.com/in/norbert-oleksy/" target="_blank" rel="noreferrer"><img
+  src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Icons/linkedin-icon.png" alt="linkedin-icon" width="150" style="padding-right:30px;" /></a>
+  <a href="" target="_blank" rel="noreferrer"><img
+  src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Icons/myWebsite-icon.png" alt="MyWebsite-icon" width="150" style="padding-right:30px;" /></a>
+  <a href="https://norbert-oleksy.itch.io/" target="_blank" rel="noreferrer"><img
+  src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Icons/itchIo-icon.png" alt="ItchIo-icon" width="150" style="padding-right:30px;" /></a>
+  <a href="https://www.youtube.com/@Norbert-Oleksy" target="_blank" rel="noreferrer"><img
+  src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Icons/YouTube-icon.png" alt="YouTube-icon" width="150" style="padding-right:30px;" /></a>
+  <a href="https://www.artstation.com/norbert-oleksy" target="_blank" rel="noreferrer"><img
+  src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Icons/artStation.png" alt="ArtStation-icon" width="150" style="padding-right:30px;" /></a>
+</p>
 
-
+<!--Projects-->
 <h2 align="center">💡 Projects 💡 </h2>
  <table width="100%">
   <tr>
