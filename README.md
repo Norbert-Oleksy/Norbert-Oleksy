@@ -31,13 +31,9 @@ I often apply what I learn directly into team workflows to boost efficiency or q
 <h2 align="center">💡 Projects 💡 </h2>
  <table width="100%">
   <tr>
-     <td><img align="left" alt="Coding" width="300" hight="300" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Gifs/it_animation.gif">
-<!--<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"> --></td>
+     <td><img align="left" alt="Project Img" width="300" hight="300" src=""></td>
     <td> 
-- 🔭 I’m currently working on [Space-Adventure2](https://github.com/Nagzlos123/Space-Adventure2)
-- 🌱 I’m currently learning **Unity, C#, .Net**
-- 👨‍💻 All of my projects are available at [https://github.com/Nagzlos123](https://github.com/Nagzlos123)
-- 📫 How to reach me **arekwie1998@onet.pl**</td>
+text
   </tr>
 </table> 
 
