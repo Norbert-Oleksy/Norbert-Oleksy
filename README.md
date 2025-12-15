@@ -4,21 +4,18 @@ It will return to you with new, beter look </br>
 
 <h1 align="center">👋 Hello There, I'm Norbert Oleksy</h1>
 
-<div align="center"> <img src="https://www.yeoandyeo.com/wp-content/uploads/07_02_21_1253437873_AAB_560x292.jpg"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Img/Banner_2.png"> </div>
+
+<h3 align="center">Game Developer specializing in Unity (C#) and expanding into Unreal Engine (C++)</h3>
 
 <h5 align="left">Creating immersive and detailed gameplay experiences is what drives me as a game developer.
-My passion lies in building systems that not only work flawlessly but also feel intuitive and enjoyable to players.
-
-I specialize in Unity.
+My passion lies in building systems that not only work flawlessly but also feel intuitive and enjoyable to players.<br><br>
 I'm committed to pushing the boundaries of what interactive experiences can offer.
-Whether it's prototyping new ideas or optimizing existing features, I aim to create games that are polished, responsive, and meaningful.
-
+Whether it's prototyping new ideas or optimizing existing features, I aim to create games that are polished, responsive, and meaningful.<br><br>
 With several shipped titles on PC and consoles, I’ve been deeply involved in both original development and high-quality ports.
-I thrive in cross-functional teams, collaborating closely with designers, artists, and audio engineers to bring complex systems to life.
-
+I thrive in cross-functional teams, collaborating closely with designers, artists, and audio engineers to bring complex systems to life.<br><br>
 Outside of work, I enjoy building personal prototypes and exploring emerging Unity features.
 I often apply what I learn directly into team workflows to boost efficiency or quality.</h5>
-
 
 <!--Profile Count Badge-->
 <p align="left">
@@ -28,18 +25,21 @@ I often apply what I learn directly into team workflows to boost efficiency or q
   src="https://img.shields.io/github/followers/Norbert-Oleksy?logo=github&color=blue&style=for-the-badge&labelColor=1c1917logo=star" alt="norbert-oleksy" style="padding-right:40px;" /></a>
 </p>
 
-<!-- 
-### Languages and Tools
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-<img align="left" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
-<img align="left" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
- <br>--> 
+<!--Profiles-->
+
+
+<h2 align="center">💡 Projects 💡 </h2>
+ <table width="100%">
+  <tr>
+     <td><img align="left" alt="Coding" width="300" hight="300" src="https://github.com/Nagzlos123/Nagzlos123/blob/main/Gifs/it_animation.gif">
+<!--<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"> --></td>
+    <td> 
+- 🔭 I’m currently working on [Space-Adventure2](https://github.com/Nagzlos123/Space-Adventure2)
+- 🌱 I’m currently learning **Unity, C#, .Net**
+- 👨‍💻 All of my projects are available at [https://github.com/Nagzlos123](https://github.com/Nagzlos123)
+- 📫 How to reach me **arekwie1998@onet.pl**</td>
+  </tr>
+</table> 
 
 <!--Footer--> 
 <p align="center">
