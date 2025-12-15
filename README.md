@@ -45,7 +45,31 @@ I often apply what I learn directly into team workflows to boost efficiency or q
   <tr>
      <td><img align="left" alt="Project Img" width="300" hight="300" src=""></td>
     <td> 
-text
+DTJ-36hr-Challenge-3
+  </tr>
+</table> 
+
+ <table width="100%">
+  <tr>
+     <td><img align="left" alt="Project Img" width="300" hight="300" src=""></td>
+    <td> 
+PathfindingExample
+  </tr>
+</table> 
+
+ <table width="100%">
+  <tr>
+     <td><img align="left" alt="Project Img" width="300" hight="300" src=""></td>
+    <td> 
+EnvironmentalPuzzleExample
+  </tr>
+</table> 
+
+ <table width="100%">
+  <tr>
+     <td><img align="left" alt="Project Img" width="300" hight="300" src=""></td>
+    <td> 
+Card-Management-Example-Project
   </tr>
 </table> 
 
