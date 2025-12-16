@@ -37,37 +37,71 @@ I often apply what I learn directly into team workflows to boost efficiency or q
 
 <!--Projects-->
 <h2 align="center">Projects</h2>
- <table width="100%">
-  <tr>
-     <td><a href="https://github.com/Norbert-Oleksy/DTJ-36hr-Challenge-3" target="_blank" rel="noreferrer"><img align="left" alt="Project Img" width="300" src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Img/P_WTAB.png"></td></a>
-    <td> 
-DTJ-36hr-Challenge-3
-  </tr>
-</table> 
+<h5 align="left">Below are a few selected projects from my repositories. (Click on a project image to visit the repository)</h5>
 
- <table width="100%">
+<table width="100%">
   <tr>
-     <td><a href="https://github.com/Norbert-Oleksy/PathfindingExample" target="_blank" rel="noreferrer"><img align="left" alt="Project Img" width="300" src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Img/P_PFE.png"></td></a>
-    <td> 
-PathfindingExample
+    <td width="300" valign="top">
+      <a href="https://github.com/Norbert-Oleksy/DTJ-36hr-Challenge-3" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Img/P_WTAB.png" alt="Well, thats a bomb Project Image" width="300">
+      </a>
+    </td>
+    <td valign="top">
+      <h3 align="center">Well, that's a bomb</h3>
+      <p>
+        A 2D logic puzzle game where the player races against time to defuse a bomb. Since each part of the bomb follows its own unique logic, I focused on a modular programming approach to ensure the code remains clean and flexible.
+      </p>
+    </td>
   </tr>
-</table> 
+</table>
 
- <table width="100%">
+<table width="100%">
   <tr>
-     <td><a href="https://github.com/Norbert-Oleksy/EnvironmentalPuzzleExample" target="_blank" rel="noreferrer"><img align="left" alt="Project Img" width="300" src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Img/P_EPE.png"></td></a>
-    <td> 
-EnvironmentalPuzzleExample
+    <td width="300" valign="top">
+      <a href="https://github.com/Norbert-Oleksy/PathfindingExample" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Img/P_PFE.png" alt="PathfindingExample Project Image" width="300">
+      </a>
+    </td>
+    <td valign="top">
+      <h3 align="center">Path finding example</h3>
+      <p>
+        An example project focused on grid-based character movement. The application allows for generating a map and customizing it in real-time. A player placed on the map can move according to set parameters and attack an opponent.
+      </p>
+    </td>
   </tr>
-</table> 
+</table>
 
- <table width="100%">
+<table width="100%">
   <tr>
-     <td><a href="https://github.com/Norbert-Oleksy/Card-Management-Example-Project" target="_blank" rel="noreferrer"><img align="left" alt="Project Img" width="300" src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Img/P_CME.png"></td></a>
-    <td> 
-Card-Management-Example-Project
+    <td width="300" valign="top">
+      <a href="https://github.com/Norbert-Oleksy/EnvironmentalPuzzleExample" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Img/P_EPE.png" alt="EnvironmentalPuzzleExample Project Image" width="300">
+      </a>
+    </td>
+    <td valign="top">
+      <h3 align="center">Environmental puzzle example</h3>
+      <p>
+        An example project primarily featuring a first-person controller (FPC), allowing for free movement around the map and interaction with the environment. The player was tasked with solving a multi-stage puzzle, with each stage having its own unique logic. By interacting with the environment and picking up objects, players could complete tasks.
+      </p>
+    </td>
   </tr>
-</table> 
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="300" valign="top">
+      <a href="https://github.com/Norbert-Oleksy/Card-Management-Example-Project" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Img/P_CME.png" alt="Card-Management-Example-Project Project Image" width="300">
+      </a>
+    </td>
+    <td valign="top">
+      <h3 align="center">Card management example</h3>
+      <p>
+        An example project featuring a card game management system. It contained core elements such as the deck, player hand, table, and discard pile. Each of these components had its own specific logic designed to adhere to the task specifications while also allowing for future expansion. The player interacted with the cards, by using the mouse.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!--Footer--> 
 <p align="center">
