@@ -1,8 +1,4 @@
-PLEASE STAND BY </br>
-Work is currently underway on this readme </br>
-It will return to you with new, beter look </br>
-
-<h1 align="center">👋 Hello There, I'm Norbert Oleksy</h1>
+<h1 align="center">👋 Hello there, I'm Norbert Oleksy</h1>
 
 <div align="center"> <img src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Img/Banner_2.png"> </div>
 
@@ -40,10 +36,10 @@ I often apply what I learn directly into team workflows to boost efficiency or q
 </p>
 
 <!--Projects-->
-<h2 align="center">💡 Projects 💡 </h2>
+<h2 align="center">Projects</h2>
  <table width="100%">
   <tr>
-     <td><img align="left" alt="Project Img" width="300" hight="300" src=""></td>
+     <td><a href="https://github.com/Norbert-Oleksy/DTJ-36hr-Challenge-3" target="_blank" rel="noreferrer"><img align="left" alt="Project Img" width="300" src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Img/P_WTAB.png"></td></a>
     <td> 
 DTJ-36hr-Challenge-3
   </tr>
@@ -51,7 +47,7 @@ DTJ-36hr-Challenge-3
 
  <table width="100%">
   <tr>
-     <td><img align="left" alt="Project Img" width="300" hight="300" src=""></td>
+     <td><a href="https://github.com/Norbert-Oleksy/PathfindingExample" target="_blank" rel="noreferrer"><img align="left" alt="Project Img" width="300" src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Img/P_PFE.png"></td></a>
     <td> 
 PathfindingExample
   </tr>
@@ -59,7 +55,7 @@ PathfindingExample
 
  <table width="100%">
   <tr>
-     <td><img align="left" alt="Project Img" width="300" hight="300" src=""></td>
+     <td><a href="https://github.com/Norbert-Oleksy/EnvironmentalPuzzleExample" target="_blank" rel="noreferrer"><img align="left" alt="Project Img" width="300" src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Img/P_EPE.png"></td></a>
     <td> 
 EnvironmentalPuzzleExample
   </tr>
@@ -67,7 +63,7 @@ EnvironmentalPuzzleExample
 
  <table width="100%">
   <tr>
-     <td><img align="left" alt="Project Img" width="300" hight="300" src=""></td>
+     <td><a href="https://github.com/Norbert-Oleksy/Card-Management-Example-Project" target="_blank" rel="noreferrer"><img align="left" alt="Project Img" width="300" src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Img/P_CME.png"></td></a>
     <td> 
 Card-Management-Example-Project
   </tr>
