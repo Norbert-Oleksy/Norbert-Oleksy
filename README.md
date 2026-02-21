@@ -25,7 +25,7 @@ I often apply what I learn directly into team workflows to boost efficiency or q
 <p align="left">
   <a href="https://www.linkedin.com/in/norbert-oleksy/" target="_blank" rel="noreferrer"><img
   src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Icons/linkedin-icon.png" alt="linkedin-icon" width="150" style="padding-right:30px;" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img
+  <a href="https://norbert-oleksy.github.io/" target="_blank" rel="noreferrer"><img
   src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Icons/myWebsite-icon.png" alt="MyWebsite-icon" width="150" style="padding-right:30px;" /></a>
   <a href="https://norbert-oleksy.itch.io/" target="_blank" rel="noreferrer"><img
   src="https://raw.githubusercontent.com/Norbert-Oleksy/Norbert-Oleksy/main/Icons/itchIo-icon.png" alt="ItchIo-icon" width="150" style="padding-right:30px;" /></a>
